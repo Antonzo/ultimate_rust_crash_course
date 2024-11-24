@@ -14,9 +14,9 @@ fn main() {
 }
 
 fn area_of(x: i32, y: i32) -> i32 {
-    return x*y;
+    x * y
 }
 
 fn volume_of(x: i32, y: i32, z: i32) -> i32 {
-    return x*y*z;
+    x * y * z
 }
